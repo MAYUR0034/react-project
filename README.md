@@ -1,2 +1,2 @@
 # react-project
-react projects
+react projects tutorials
